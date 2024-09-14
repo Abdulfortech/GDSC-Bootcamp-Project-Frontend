@@ -23,7 +23,7 @@
           <div class="card bg-light card-success p-3">
             <center><i class="fa fa-user-circle text-success" style="font-size: 80px;"></i></center>
             <h3 class="text-success text-center font-weight-bold">Student Sign In</h3>
-            <form role="form" method="POST" action="log.php" id="quickForm">
+            <form role="form" method="POST" action="home.php" id="quickForm">
               <div class="card-body text-start p-2">
                 <div class="form-group">
                   <label>Email</label>
@@ -36,7 +36,7 @@
                 <center><input type="submit" name="signin" class="btn btn-success mt-4 mb-3" value="Sign In"></center>
                 <p class="text-center text-success">
                   Don't have account? <a href="signup">Sign Up</a> <br> 
-                  Forget Password ? <a href="reset">Reset</a>
+                  Forget Password ? <a href="#">Reset</a>
                 </p>
               </div>
             </form>

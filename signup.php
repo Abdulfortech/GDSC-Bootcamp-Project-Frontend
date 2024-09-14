@@ -23,7 +23,7 @@
           <div class="card bg-light card-success p-3">
             <center><i class="fa fa-user-circle text-success" style="font-size: 80px;"></i></center>
             <h3 class="text-success text-center font-weight-bold">Student Sign Up</h3>
-            <form role="form" method="POST" action="log.php" id="quickForm">
+            <form role="form" method="POST" action="home.php" id="quickForm">
               <div class="card-body text-start p-0">
                 <div class="form-group row">
                   <div class="col-md-6">
